@@ -1,0 +1,16 @@
+/**
+* style.css
+*
+* Theme Name:   itdesign WordPress Challenge
+* Author:       Lukas Kaisers <a href="https://itdesign.de/" target="blank">@itdesign</a>
+* Author URI:   https://itdesign.de/
+* Description:  This is a lightweight theme to provide an easy infrastructure to test WordPress functionality
+* Text Domain:  itdesign
+* Tags:         bootstrap, jQuery, responsive
+*
+*/
+
+img {
+  max-width: 100%;
+  height: auto;
+}
